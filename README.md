@@ -7,4 +7,4 @@ it would tipically contain howmany pateints are discharged/critical/serious/pass
 the visualised result has been published to tableau public:
 https://public.tableau.com/views/covid_16496869326710/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-merge the dataset with COVID daily comfirmed data which published from CHP has the potential to provide more pandemic insight. Sadly CHP has suspended to update even before I have finish the coding (gov_releases_scrape_new).
+merge the dataset with COVID daily comfirmed data which published by CHP has the potential to provide more pandemic insight. Sadly CHP has suspended to update even before I have finish the coding (gov_releases_scrape_new).
